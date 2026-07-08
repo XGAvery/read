@@ -1,0 +1,16 @@
+{
+  "name": "片单 MediaLog",
+  "short_name": "片单",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#14161F",
+  "theme_color": "#14161F",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
